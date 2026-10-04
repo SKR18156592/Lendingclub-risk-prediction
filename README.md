@@ -21,6 +21,8 @@ This project builds a **binary classification model using Keras** to predict whe
 * ~396K loan records
 * Includes loan details, borrower info, and credit history
 
+> **Note:** The code in this repository is released under the [MIT License](LICENSE). The CSV files (`lending_club_loan.csv`, `lending_club_info.csv`) contain public LendingClub loan data, which is not covered by the MIT License and remains subject to its original terms.
+
 ---
 
 ## 🧹 Preprocessing
